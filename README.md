@@ -1,2 +1,2 @@
-# WavesWebsite2018
-Official Website for Waves 2018
+# WavesWebsite2017
+Waves Website 2017
